@@ -1,6 +1,6 @@
 # What is Distributed systems
 
-## why it was build
+## Why it was build
 
 * They need to get high performance(parallelism)
 * To be able to tolerate fault(Fault tolerance)
