@@ -21,7 +21,23 @@ Question - What makes distributed systems hard?
   * It takes careful design to make the system actually give you the performance you feel you deserve
 
 ## Course Structure
+* Lecture papers - 
+  * From case study, people in industry describing
+  * Read the paper before coming to the class.
+  * How to read a paper rapidly and efficiently
+* Exams - two exams
+* Labs
+  * Lab 1 - Map Reduce
+  * Raft for fault tolerance
+  * Key value server
+  * Sharded Key value service
+* Project(optional)
+  * Pick some team mates
 
-
+## Infrastructure
+* Storage
+* Communication
+* Computation
+  * e.g. Map reduce
 
 
